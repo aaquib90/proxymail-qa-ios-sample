@@ -78,6 +78,7 @@ from Proxy Mail QA tests the same path your own app will.
   `message`, `code`, `activate`, `status`, `problem`, `signOut`, `logIn`) for
   UI tests.
 - `AcmeSample/Info.plist` registers the `acmesample://` scheme.
+- `AcmeSample/Assets.xcassets` holds the app icon, the Proxy Mail QA mark.
 
 ## With your own app
 
